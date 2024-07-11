@@ -25,6 +25,24 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 To begin writing my algorithm, I first needed to import the access file, allow_list.txt, and save it to a variable. Saving it to the variable import_file, as seen in the capture below, facilitates future file manipulation. The hypothetical hospital provided me with the variable remove_list, which contained a list of IP addresses to be removed from the allow_list.txt access file. 
 
 ![image](https://github.com/srsalina/Python-Lab/assets/131724448/7de344aa-4981-411c-b02b-77c5ee749116)
+![image](https://github.com/user-attachments/assets/9d340a9a-0f49-4902-bb97-aff241dc2120)
+![image](https://github.com/user-attachments/assets/b54ecda2-ca03-4c43-a0ce-e73b52984240)
 
+![image](https://github.com/user-attachments/assets/69180cc9-36bf-4237-a83d-17496635d886)
 
 *Ref 1: Network Diagram*
+![image](https://github.com/user-attachments/assets/9a103ad1-6342-464b-8b51-dcce078cb691)
+
+![image](https://github.com/user-attachments/assets/15964c37-34c6-4db1-9953-4ac6a07ae662)
+
+![image](https://github.com/user-attachments/assets/5ebbed1d-a8f6-49d7-a145-d0a6082e8dd4)
+
+
+![image](https://github.com/user-attachments/assets/1eefac54-bd57-4b4d-ae51-f653c5d82b53)
+
+
+![image](https://github.com/user-attachments/assets/56f62f0c-0b44-4459-a169-68a08d6c42ff)
+
+
+![image](https://github.com/user-attachments/assets/d7b2cd82-236f-403e-a1e1-e5d24458fa5f)
+
