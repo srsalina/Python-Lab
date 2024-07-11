@@ -1,12 +1,12 @@
 # ALGORITHM FOR UPDATING FILES IN PYTHON
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+
+This project demonstrates how I used Python to modify the contents of a file. I was given a hypothetical task to update a text file identifying which hospital employees could access restricted information regarding patient records. This file, named allow_list.txt, contained a series of IP addresses that were allowed to access the aforementioned patient records. The end goal was to develop an algorithm that could parse through any similar file and remove IP addresses that should no longer be allowed to access sensitive information. To achieve this, I used Python to parse through the allow_list.txt file and remove IP addresses that should no longer have access. This hands-on experience was designed to deepen my understanding of Python scripting and file manipulation concerning security. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -14,15 +14,15 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Procedure
 drag & drop screenshots here or use imgur and reference them using imgsrc
+
+
+### Opening the File Containing the Allow List
+
+To begin writing my algorithm, I first needed to import the access file, allow_list.txt, and save it to a variable. Saving it to the variable import_file, as seen in the capture below, facilitates future file manipulation. The hypothetical hospital provided me with the variable remove_list, which contained a list of IP addresses to be removed from the allow_list.txt access file. 
 
 ![image](https://github.com/srsalina/Python-Lab/assets/131724448/7de344aa-4981-411c-b02b-77c5ee749116)
 
